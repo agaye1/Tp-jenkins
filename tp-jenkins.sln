@@ -5,16 +5,35 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp-jenkins", "tp-jenkins\tp-jenkins.csproj", "{F980EE96-C0CE-4360-804F-764FEC495B22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitaire", "TestUnitaire\TestUnitaire.csproj", "{D220930A-3503-48A1-B719-CC6BEC2C0681}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F980EE96-C0CE-4360-804F-764FEC495B22} = {F980EE96-C0CE-4360-804F-764FEC495B22}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F980EE96-C0CE-4360-804F-764FEC495B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F980EE96-C0CE-4360-804F-764FEC495B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F980EE96-C0CE-4360-804F-764FEC495B22}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F980EE96-C0CE-4360-804F-764FEC495B22}.Debug|x86.Build.0 = Debug|Any CPU
 		{F980EE96-C0CE-4360-804F-764FEC495B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F980EE96-C0CE-4360-804F-764FEC495B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F980EE96-C0CE-4360-804F-764FEC495B22}.Release|x86.ActiveCfg = Release|Any CPU
+		{F980EE96-C0CE-4360-804F-764FEC495B22}.Release|x86.Build.0 = Release|Any CPU
+		{D220930A-3503-48A1-B719-CC6BEC2C0681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D220930A-3503-48A1-B719-CC6BEC2C0681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D220930A-3503-48A1-B719-CC6BEC2C0681}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D220930A-3503-48A1-B719-CC6BEC2C0681}.Debug|x86.Build.0 = Debug|Any CPU
+		{D220930A-3503-48A1-B719-CC6BEC2C0681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D220930A-3503-48A1-B719-CC6BEC2C0681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D220930A-3503-48A1-B719-CC6BEC2C0681}.Release|x86.ActiveCfg = Release|Any CPU
+		{D220930A-3503-48A1-B719-CC6BEC2C0681}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
