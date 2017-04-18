@@ -3,7 +3,6 @@ using tpJenkins;
 using NUnit.Framework;
 
 [assembly: CLSCompliant(true)]
-
 namespace TestUnitaire
 {
     [TestFixture()]
