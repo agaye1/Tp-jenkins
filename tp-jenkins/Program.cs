@@ -8,7 +8,7 @@ namespace tp_jenkins
 {
     public class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Hello world");
            // Console.WriteLine("15 + 16 = "+Add(15,16));
