@@ -1,9 +1,0 @@
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\TestUnitaireNunit\bin\Debug\TestUnitaireNunit.pdb
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\TestUnitaireNunit\bin\Debug\nunit.framework.dll
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\TestUnitaireNunit\bin\Debug\tp-jenkins.exe
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\TestUnitaireNunit\bin\Debug\tp-jenkins.pdb
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\TestUnitaireNunit\obj\Debug\TestUnitaireNunit.csprojResolveAssemblyReference.cache
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\TestUnitaireNunit\obj\Debug\TestUnitaireNunit.pdb
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\TestUnitaireNunit\bin\Debug\TestUnitaireNunit.dll.config
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\TestUnitaireNunit\bin\Debug\TestUnitaireNunit.dll
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\TestUnitaireNunit\obj\Debug\TestUnitaireNunit.dll
