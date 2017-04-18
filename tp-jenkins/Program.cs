@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 
 [assembly: CLSCompliant(true)]
-namespace tpJenkins
+namespace TpJenkins
 {
     public static class Program
     {

@@ -1,5 +1,5 @@
 ﻿using System;
-using tpJenkins;
+using TpJenkins;
 using NUnit.Framework;
 
 [assembly: CLSCompliant(true)]
