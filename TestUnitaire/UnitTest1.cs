@@ -5,7 +5,6 @@ using NUnit.Framework;
 [assembly: CLSCompliant(true)]
 namespace TestUnitaire
 {
-    [TestFixture()]
     public class UnitTest1
     {
         private Program calculateur = new Program();
