@@ -6,7 +6,7 @@ using NUnit.Framework;
 
 namespace TestUnitaire
 {
-    [TestFixture]
+    [TestFixture()]
     public class UnitTest1
     {
         

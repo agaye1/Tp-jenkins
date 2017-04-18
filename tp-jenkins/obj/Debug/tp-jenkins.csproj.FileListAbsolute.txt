@@ -1,7 +1,0 @@
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\tp-jenkins\bin\Debug\tp-jenkins.exe.config
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\tp-jenkins\bin\Debug\tp-jenkins.exe
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\tp-jenkins\bin\Debug\tp-jenkins.pdb
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\tp-jenkins\bin\Debug\nunit.framework.dll
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\tp-jenkins\bin\Debug\nunit.framework.xml
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\tp-jenkins\obj\Debug\tp-jenkins.exe
-C:\Users\agaye\Documents\Visual Studio 2015\Projects\tp-jenkins\tp-jenkins\obj\Debug\tp-jenkins.pdb
