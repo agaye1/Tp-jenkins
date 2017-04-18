@@ -6,18 +6,18 @@ using NUnit.Framework;
 namespace TestUnitaire
 {
     [TestFixture()]
-    public class UnitTest1
+    public class UnitTest
     {
      
         
-        [Test]
+        [Test()]
         public void TestAdd()
         {
             int result = Program.Add(14 , 16);
             Assert.AreEqual(30, result);
         }
 
-        [Test]
+        [Test()]
         public void TestDision()
         {
             int result = Program.Division(27, 3);
