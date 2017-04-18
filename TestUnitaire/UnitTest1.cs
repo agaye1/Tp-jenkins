@@ -1,7 +1,6 @@
 ﻿using System;
 using tp_jenkins;
 using NUnit.Framework;
-using NUnit;
 
 
 
@@ -25,6 +24,7 @@ namespace TestUnitaire
             Assert.AreEqual(9, result);
         }
 
-    
+
+
     }
 }
