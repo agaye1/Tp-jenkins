@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tp_jenkins
+
+[assembly: CLSCompliant(true)]
+namespace tpJenkins
 {
     public class Program
     {
@@ -16,12 +18,12 @@ namespace tp_jenkins
         }
 
 
-        public static int Add(int a, int b)
+        public  int Add(int a, int b)
         {
             return a + b;
         }
 
-        public  static int Division (int a, int b)
+        public  int Division (int a, int b)
         {
             return a / b;
         }
