@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 [assembly: CLSCompliant(true)]
 namespace tpJenkins
 {
-    public class Program
+    public static class Program
     {
         static void Main()
         {
@@ -18,12 +18,12 @@ namespace tpJenkins
         }
 
 
-        public  int Add(int a, int b)
+        public static int  Add(int a, int b)
         {
             return a + b;
         }
 
-        public  int Division (int a, int b)
+        public static  int Division (int a, int b)
         {
             return a / b;
         }
