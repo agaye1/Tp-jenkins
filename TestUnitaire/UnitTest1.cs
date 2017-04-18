@@ -1,12 +1,13 @@
 ﻿using System;
 using tp_jenkins;
 using NUnit.Framework;
+using NUnit;
 
 
 
 namespace TestUnitaire
 {
-    
+    [TestFixture]
     public class UnitTest1
     {
         
