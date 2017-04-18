@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitaire", "TestUnitair
 		{F980EE96-C0CE-4360-804F-764FEC495B22} = {F980EE96-C0CE-4360-804F-764FEC495B22}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitaireNunit", "TestUnitaireNunit\TestUnitaireNunit.csproj", "{DE56231B-12FD-448B-9EC9-4110B4AE1B7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +36,14 @@ Global
 		{D220930A-3503-48A1-B719-CC6BEC2C0681}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D220930A-3503-48A1-B719-CC6BEC2C0681}.Release|x86.ActiveCfg = Release|Any CPU
 		{D220930A-3503-48A1-B719-CC6BEC2C0681}.Release|x86.Build.0 = Release|Any CPU
+		{DE56231B-12FD-448B-9EC9-4110B4AE1B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE56231B-12FD-448B-9EC9-4110B4AE1B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE56231B-12FD-448B-9EC9-4110B4AE1B7F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DE56231B-12FD-448B-9EC9-4110B4AE1B7F}.Debug|x86.Build.0 = Debug|Any CPU
+		{DE56231B-12FD-448B-9EC9-4110B4AE1B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE56231B-12FD-448B-9EC9-4110B4AE1B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE56231B-12FD-448B-9EC9-4110B4AE1B7F}.Release|x86.ActiveCfg = Release|Any CPU
+		{DE56231B-12FD-448B-9EC9-4110B4AE1B7F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

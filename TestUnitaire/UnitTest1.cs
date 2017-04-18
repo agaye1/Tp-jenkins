@@ -9,6 +9,7 @@ namespace TestUnitaire
     [TestClass]
     public class UnitTest1
     {
+        /*
         [TestMethod]
         public void TestAdd()
         {
@@ -22,5 +23,7 @@ namespace TestUnitaire
             int result = tp_jenkins.Program.Division(27, 3);
             Assert.AreEqual(9, result);
         }
+
+    */
     }
 }
