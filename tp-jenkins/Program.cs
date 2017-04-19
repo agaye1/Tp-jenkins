@@ -16,13 +16,15 @@ namespace TpJenkins
 
             Console.ReadLine();
         }
-        public static int  Add(int a, int b)
+
+        public static int  Add(int a,int b)
         {
-            return a + b;
+            return a+b;
         }
-        public static  int Division(int a, int b)
+
+        public static  int Division(int a,int b)
         {
-            return a / b;
+            return a/b;
         }
     }
 }
