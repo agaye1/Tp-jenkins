@@ -19,13 +19,12 @@ namespace TpJenkins
         {
             return a / b;
         }
+
         private static void Main()
         {
             Console.WriteLine("Hello world");
 
             Console.ReadLine();
         }
-
-        
     }
 }
