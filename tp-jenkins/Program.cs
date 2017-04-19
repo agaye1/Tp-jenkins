@@ -10,21 +10,22 @@ namespace TpJenkins
 {
     public static class Program
     {
-        static void Main()
+        public static int Add(int a, int b)
+        {
+            return a + b;
+        }
+
+        public static int Division(int a, int b)
+        {
+            return a / b;
+        }
+        private static void Main()
         {
             Console.WriteLine("Hello world");
 
             Console.ReadLine();
         }
 
-        public static int  Add(int a,int b)
-        {
-            return a+b;
-        }
-
-        public static  int Division(int a,int b)
-        {
-            return a/b;
-        }
+        
     }
 }
